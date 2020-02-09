@@ -1,10 +1,10 @@
 module.exports = {
-  privateKey: 'REPLACE_ME',
+  privateKey: '0x51A33a5bBa82f8EBd0fE2192A25CA2E60B9Dc32f',
 
   // Orderbook connection
 
   orderbookEndpoint: 'wss://degens.com/ws',
-  versionName: 'REPLACE_ME',
+  versionName: '0xBet',
 
   // Reflector connection
 
